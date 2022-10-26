@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+#workup {
+    content: 'Up';
+    color: #ff736a;
+}
+
+#first-page {
+    background-color: #5c52ba;
+
+}
+
+
+#bg-logo {
+    position: relative;
+}
+
+#search-box {
+    min-width: 300px !important;
+}
+
+
+
+
+#search-box {
+    width: 50%;
+
+}
+
+.second-page {
+    background-color: white;
+}
+
+#mini {
+    background-color: #5c52ba;
+
+}
+
+.sixth {
+    background: #5c52ba;
+}
+
+.custom-footer {
+    background: #1b1837;
+}
